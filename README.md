@@ -2,7 +2,7 @@
 
      Social Media APP
 ============
-;; [![GitHub Stars](https://img.shields.io/github/stars/DavidJ001/node-chat.svg)](https://github.com/DavidJ001/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IgorAntun/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![GitHub Stars](https://img.shields.io/github/stars/DavidJ001/node-chat.svg)](https://github.com/DavidJ001/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DavidJ001/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is a node.js social media web application powered by MERN that provides the main functions you'd expect from a social media application, such as emojis, private messages, a personalized profile etc.
 

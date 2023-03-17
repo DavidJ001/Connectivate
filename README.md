@@ -1,8 +1,8 @@
 ![](http://i.imgur.com/y8g506n.png?1)
 
      Social Media APP
-============
-[![github release version](https://img.shields.io/github/v/release/DavidJ001/tui.editor.svg?include_prereleases)](https://github.com/DavidJ001/tui.editor/releases/latest) [![npm version](https://img.shields.io/npm/v/@toast-ui/editor.svg)](https://www.npmjs.com/package/@toast-ui/editor) [![license](https://img.shields.io/github/license/DavidJ001/tui.editor.svg)](https://github.com/DavidJ001/tui.editor/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/DavidJ001/tui.editor/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with hearth by DavidJ001 Cloud](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-DavidJ001_Cloud-ff1414.svg)](https://github.com/DavidJ001)
+
+[![github release version](https://img.shields.io/github/v/release/DavidJ001/Connectivate.svg?include_prereleases)](https://github.com/DavidJ001/Connectivate/releases/latest) [![npm version](https://img.shields.io/npm/v/@toast-ui/editor.svg)](https://www.npmjs.com/package/@toast-ui/editor) [![license](https://img.shields.io/github/license/DavidJ001/Connectivate.svg)](https://github.com/DavidJ001/Connectivate/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/DavidJ001/Connectivate/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with hearth by DavidJ001 Cloud](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-DavidJ001_Cloud-ff1414.svg)](https://github.com/DavidJ001)
 
 This is a node.js social media web application powered by MERN that provides the main functions you'd expect from a social media application, such as emojis, private messages, a personalized profile etc.
 

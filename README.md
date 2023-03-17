@@ -33,3 +33,7 @@ After you clone this repo to your desktop, go to its root directory and run `npm
 Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
 
 You will be able to see the sign-up/ login page. From there you have full control of the app. 
+
+## 📜 License
+
+This software is licensed under the [MIT](https://github.com/DavidJ001/Connectivate/blob/master/LICENSE) © [DavidJ001](https://github.com/DavidJ001).

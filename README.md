@@ -19,20 +19,45 @@ This is a node.js social media web application powered by MERN that provides the
 - Works on Mac, Linux and (well, of course,) Windows
 - Supports other version control systems (`.hgignore`)
 
-## Setup
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
 
+## 🌏 Browser Support
+
+| <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> Internet Explorer | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox |
+| :---------: | :---------: | :---------: | :---------: | :---------: |
+| Yes | 11+ | Yes | Yes | Yes |
+
+
+## 🔧 Pull Request Steps
+
+TOAST UI products are open source, so you can create a pull request(PR) after you fix issues. Run npm scripts and develop yourself with the following process.
+
+### Setup
+
+Fork `main` branch into your personal repository. Clone it to local computer. Install node modules. Before starting development, you should check if there are any errors.
+
+```sh
+$ git clone https://github.com/{your-personal-repo}/Connectivate.git
+$ npm install
+$ npm fix 
+$ npm start
+```
 You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
 Also, create an account with mongodb if you haven't yet and update the `.env` with your mongodb configuration key and you're good to go.
 
----
+;; ## Setup
+;; Clone this repo to your desktop and run `npm install` to install all the dependencies.
 
-## Usage
-After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
+;; You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
+;; Also, create an account with mongodb if you haven't yet and update the `.env` with your mongodb configuration key and you're good to go.
 
-Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
+;; ---
 
-You will be able to see the sign-up/ login page. From there you have full control of the app. 
+;; ## Usage
+;; After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
+
+;; Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
+
+;; You will be able to see the sign-up/ login page. From there you have full control of the app. 
 
 ## 📜 License
 

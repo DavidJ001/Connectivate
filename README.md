@@ -2,7 +2,7 @@
 
      Social Media APP
 ============
-[![GitHub Stars](https://img.shields.io/github/stars/DavidJ001/node-chat.svg)](https://github.com/DavidJ001/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DavidJ001/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![github release version](https://img.shields.io/github/v/release/DavidJ001/tui.editor.svg?include_prereleases)](https://github.com/DavidJ001/tui.editor/releases/latest) [![npm version](https://img.shields.io/npm/v/@toast-ui/editor.svg)](https://www.npmjs.com/package/@toast-ui/editor) [![license](https://img.shields.io/github/license/DavidJ001/tui.editor.svg)](https://github.com/DavidJ001/tui.editor/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/DavidJ001/tui.editor/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with hearth by DavidJ001 Cloud](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-DavidJ001_Cloud-ff1414.svg)](https://github.com/DavidJ001)
 
 This is a node.js social media web application powered by MERN that provides the main functions you'd expect from a social media application, such as emojis, private messages, a personalized profile etc.
 

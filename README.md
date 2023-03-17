@@ -29,7 +29,7 @@ This is a node.js social media web application powered by MERN that provides the
 
 ## 🔧 Pull Request Steps
 
-TOAST UI products are open source, so you can create a pull request(PR) after you fix issues. Run npm scripts and develop yourself with the following process.
+Connectivate open source, so you can create a pull request(PR) after you fix issues. Modify yourself with the following processes.
 
 ### Setup
 

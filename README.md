@@ -2,8 +2,8 @@
 
      A Social Media WebAPP
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
-[![CircleCI](https://circleci.com/gh/DavidJ001/Connectivate.svg?style=svg)](https://circleci.com/gh/DavidJ001/Connectivate)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 [![github release version](https://img.shields.io/github/v/release/DavidJ001/Connectivate.svg?include_prereleases)](https://github.com/DavidJ001/Connectivate/releases/latest) [![npm version](https://img.shields.io/npm/v/@toast-ui/editor.svg)](https://www.npmjs.com/package/@toast-ui/editor) [![license](https://img.shields.io/github/license/DavidJ001/Connectivate.svg)](https://github.com/DavidJ001/Connectivate/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/DavidJ001/Connectivate/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with hearth by DavidJ001](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-DavidJ001-ff1414.svg)](https://github.com/DavidJ001)
 
 This is a node.js social media web application powered by MERN that provides the main functions you'd expect from a social media application, such as emojis, private messages, a personalized profile etc.

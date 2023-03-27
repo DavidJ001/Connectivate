@@ -4,11 +4,11 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?)](#contributors) [![github release version](https://img.shields.io/github/v/release/DavidJ001/Connectivate.svg?include_prereleases)](https://github.com/DavidJ001/Connectivate/releases/latest) [![npm version](https://img.shields.io/npm/v/@toast-ui/editor.svg)](https://www.npmjs.com/package/@toast-ui/editor) [![license](https://img.shields.io/github/license/DavidJ001/Connectivate.svg)](https://github.com/DavidJ001/Connectivate/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/DavidJ001/Connectivate/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with hearth by DavidJ001](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-DavidJ001-ff1414.svg)](https://github.com/DavidJ001)
 
-This is a node.js social media web application powered by MERN that provides the main functions you'd expect from a social media application, such as emojis, private messages, a personalized profile etc.
+This is a node.js social media web application powered by MERN that provides the main functions you'd expect from a social media application, such as the use of emojis, private messages, a personalized profile etc.
 
 ## Features
 
-- Written in Node.JS
+- Fully JavaScript
 - Emoji support
 - User @mentioning (for logged in users)
 - Private messaging (for logged in users)
@@ -38,11 +38,14 @@ Fork `main` branch into your personal repository. Clone it to local computer. In
 ```sh
 $ git clone https://github.com/{your-personal-repo}/Connectivate.git
 $ npm install
-$ npm fix 
-$ npm start
+$ npm audit fix --force
+$ npm run start
 ```
-You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
+Check the `jsconfig.json` file for configurations and then creat a `.env` file in the server folder to setup locally your MongoDB configurations.
 Also, create an account with mongodb if you haven't yet and update the `.env` with your mongodb configuration key and you're good to go.
+
+
+For Screenshots and a more detailed description of this project, have a look at this [`google slide` file](https://google.com/)
 
 
 
